@@ -101,12 +101,6 @@ pip install kivy
 
    - You can press the "Home" button to go back to the initial screen and enter another sentence.
 
-## Files
-
-- `interface.py`: Contains the code for the Kivy application.
-- `model.h5`: Pre-trained deep learning model for emotion detection.
-- `training.csv`: Dataset used to train the emotion detection model.
-
 ## Dependencies
 
 - TensorFlow: For loading the pre-trained model and performing inference.
