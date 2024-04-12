@@ -114,8 +114,6 @@ pip install kivy
 - NumPy: For numerical computations.
 - pandas: For data manipulation and loading the dataset.
 
-Feel free to customize this README according to your preferences and additional details you'd like to include!
-
 ## Contributing
 
 Contributions to the Sentence Emotion Predictor are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
